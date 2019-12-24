@@ -1,2 +1,3 @@
 # daily-projects
-All my projects in my Java folder were made in Dr Java until now. This HelloWorld is my first program made using the professional-grade IDE Visual Studio.
+Developers require a high level of fluid intelligence in order to survive the ever chaning landscape of the digital market.
+My goal here is to demonstrate the discipline to consistently grow as a developer. 
